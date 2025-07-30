@@ -21,7 +21,7 @@
         </ul>
     </nav>
     <div class="container">
-        <form action="" method="">
+        <form action="/front/database.php" method="POST">
             <h2>Regiter</h2>
             <input type="text" name="name" placeholder="name">
             <input type="text" name="email" placeholder="email">
